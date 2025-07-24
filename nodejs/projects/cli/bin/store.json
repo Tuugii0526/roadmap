@@ -1,13 +1,1 @@
-{
-  "books": [
-    {
-      "name": "john",
-      "url": "hi",
-      "priority": "2",
-      "process": "progress",
-      "updatedAt": "2025-07-12T10:44:21.606Z",
-      "createdAt": "2025-07-12T10:44:21.606Z",
-      "id": 1
-    }
-  ]
-}
+{"books":[{"name":"write great code volume 1 by randall hyde ","url":"https://books.google.mn/books?id=z1v6DwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false","priority":"1","process":"todo","updatedAt":"2025-07-20T10:39:50.141Z","createdAt":"2025-07-20T10:39:50.141Z","id":1}]}

@@ -1,7 +1,7 @@
 import fs from "fs/promises";
 import * as readline from "node:readline/promises";
 import { stdin as input, stdout as output } from "node:process";
-import { BLOG_DATA } from "./utils.js";
+import { BLOG_DATA } from "./utils.mjs";
 /**
  *
  * @param {(newData)=>void} callback

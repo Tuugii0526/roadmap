@@ -29,3 +29,19 @@ export const BLOG_DATA = {
     promptString: "process(done,todo,progress):",
   },
 };
+export const checkProgress = (progress) => {
+  switch (progress) {
+    case "-t": {
+      return "todo";
+    }
+    case "-p": {
+      return "progress";
+    }
+    case "-d": {
+      return "done";
+    }
+    default: {
+      return "";
+    }
+  }
+};

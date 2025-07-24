@@ -12,3 +12,8 @@ date: 2025-07-20
 3. Token based
 4. Oauth
 5. SSO
+
+## 1. Session based
+
+- generate a secret key
+- encrypting and decrypting sessions
